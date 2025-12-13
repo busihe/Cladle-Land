@@ -58,7 +58,7 @@ export function About() {
               <div className="flex-1 text-center md:text-left">
                 <h3 className="text-[#0A1E3F] mb-1">Gaga Andy</h3>
                 <p className="text-[#F2C94C] mb-4" style={{ fontWeight: 600 }}>
-                  CEO
+                  CEO & Co-founder
                 </p>
 
                 <div className="space-y-2">
@@ -109,7 +109,7 @@ export function About() {
                     <span>0784425756</span>
                   </a>
                   <a
-                    href="mailto:andygaga250@gmail.com"
+                    href="mailto:uwawetres04@gmail.com"
                     className="flex items-center gap-2 text-[#0A1E3F]/70 hover:text-[#F2C94C] transition-colors justify-center md:justify-start"
                   >
                     <Mail size={18} />
