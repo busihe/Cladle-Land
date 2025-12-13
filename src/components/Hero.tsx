@@ -55,7 +55,7 @@ export function Hero() {
           <div className="relative">
             <div className="relative rounded-3xl overflow-hidden shadow-2xl">
               <ImageWithFallback
-                src="https://images.unsplash.com/photo-1643409333190-5a0ee7ac7385?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxBZnJpY2FuJTIwdGVjaG5vbG9neSUyMGlubm92YXRpb258ZW58MXx8fHwxNzYzNzIyMzM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+                src="https://res.cloudinary.com/dkiytyubm/image/upload/v1765625434/tsw62opr_gdounl.png"
                 alt="Technology Innovation in Africa"
                 className="w-full h-auto"
               />
