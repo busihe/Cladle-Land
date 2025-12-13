@@ -55,7 +55,7 @@ export function Hero() {
           <div className="relative">
             <div className="relative rounded-3xl overflow-hidden shadow-2xl">
               <ImageWithFallback
-                src="https://res.cloudinary.com/dkiytyubm/image/upload/v1765625434/tsw62opr_gdounl.png"
+                src="https://res.cloudinary.com/dkiytyubm/image/upload/v1765626686/tsw62opr_gdounl.png"
                 alt="Technology Innovation in Africa"
                 className="w-full h-auto"
               />
