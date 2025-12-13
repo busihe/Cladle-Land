@@ -95,7 +95,7 @@ export function About() {
               </div>
 
               <div className="flex-1 text-center md:text-left">
-                <h3 className="text-[#0A1E3F] mb-1">Gaga Andy</h3>
+                <h3 className="text-[#0A1E3F] mb-1">Uwawe Tresor</h3>
                 <p className="text-[#F2C94C] mb-4" style={{ fontWeight: 600 }}>
                 co-founder & Head of product design
                 </p>
